@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_a"
+        android:icon="@drawable/ic_star_border_black_24dp"
+        android:title="Tên Bệnh Theo Vần A" />
+    <item
+        android:id="@+id/menu_b"
+        android:icon="@drawable/ic_star_border_black_24dp"
+        android:title="Tên Bệnh Theo Vần B" />
+    <item
+        android:id="@+id/menu_c"
+        android:icon="@drawable/ic_star_border_black_24dp"
+        android:title="Tên Bệnh Theo Vần C" />
+    <item
+        android:id="@+id/menu_d"
+        android:icon="@drawable/ic_star_border_black_24dp"
+        android:title="Tên Bệnh Theo Vần D" />
+    <item
+        android:id="@+id/menu_đ"
+        android:icon="@drawable/ic_star_border_black_24dp"
+        android:title="Tên Bệnh Theo Vần Đ" />
+    <item
+        android:id="@+id/menu_e"
+        android:icon="@drawable/ic_star_border_black_24dp"
+        android:title="Tên Bệnh Theo Vần E" />
+    <item
+        android:id="@+id/menu_g"
+        android:icon="@drawable/ic_star_border_black_24dp"
+        android:title="Tên Bệnh Theo Vần G" />
+    <item
+        android:id="@+id/menu_h"
+        android:icon="@drawable/ic_accessible_black_24dp"
+        android:title="Tên Bệnh Theo Vần H" />
+    <item
+        android:id="@+id/menu_i"
+        android:icon="@drawable/ic_accessible_black_24dp"
+        android:title="Tên Bệnh Theo Vần I" />
+    <item
+        android:id="@+id/menu_k"
+        android:icon="@drawable/ic_star_border_black_24dp"
+        android:title="Tên Bệnh Theo Vần K" />
+    <item
+        android:id="@+id/menu_l"
+        android:icon="@drawable/ic_star_border_black_24dp"
+        android:title="Tên Bệnh Theo Vần L" />
+    <item
+        android:id="@+id/menu_m"
+        android:icon="@drawable/ic_star_border_black_24dp"
+        android:title="Tên Bệnh Theo Vần M" />
+    <item
+        android:id="@+id/menu_n"
+        android:icon="@drawable/ic_star_border_black_24dp"
+        android:title="Tên Bệnh Theo Vần N" />
+    <item
+        android:id="@+id/menu_o"
+        android:icon="@drawable/ic_star_border_black_24dp"
+        android:title="Tên Bệnh Theo Vần O" />
+    <item
+        android:id="@+id/menu_p"
+        android:icon="@drawable/ic_star_border_black_24dp"
+        android:title="Tên Bệnh Theo Vần P" />
+    <item
+        android:id="@+id/menu_q"
+        android:icon="@drawable/ic_star_border_black_24dp"
+        android:title="Tên Bệnh Theo Vần Q" />
+    <item
+        android:id="@+id/menu_r"
+        android:icon="@drawable/ic_star_border_black_24dp"
+        android:title="Tên Bệnh Theo Vần R" />
+    <item
+        android:id="@+id/menu_s"
+        android:icon="@drawable/ic_star_border_black_24dp"
+        android:title="Tên Bệnh Theo Vần S" />
+    <item
+        android:id="@+id/menu_t"
+        android:icon="@drawable/ic_star_border_black_24dp"
+        android:title="Tên Bệnh Theo Vần T" />
+    <item
+        android:id="@+id/menu_u"
+        android:icon="@drawable/ic_star_border_black_24dp"
+        android:title="Tên Bệnh Theo Vần U" />
+    <item
+        android:id="@+id/menu_v"
+        android:icon="@drawable/ic_star_border_black_24dp"
+        android:title="Tên Bệnh Theo Vần V" />
+    <item
+        android:id="@+id/menu_x"
+        android:icon="@drawable/ic_star_border_black_24dp"
+        android:title="Tên Bệnh Theo Vần X" />
+    <item
+        android:id="@+id/menu_z"
+        android:icon="@drawable/ic_star_border_black_24dp"
+        android:title="Tên Bệnh Theo Vần Z " />
+
+</menu>
